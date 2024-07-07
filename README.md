@@ -18,11 +18,7 @@ To run this project, you need to install the following Python libraries:
 - scikit-learn
 - IPython
 
-## Installation
 
-Install the necessary dependencies.
-
-## For Example
 ## Installation
 
 To install the specified packages (numpy, pandas, matplotlib, seaborn, scikit-learn, and ipython) , follow these steps:
