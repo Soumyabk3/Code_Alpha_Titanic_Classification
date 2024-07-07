@@ -89,10 +89,10 @@ source venv/bin/activate
 ```
 
 ```bash
-  pip install numpy pandas matplotlib seaborn scikit-learn ipython
+  pip freeze
 ```
 
-### After running the above commands, your requirements.txt file will include entries similar to these (exact versions may vary):
+### After running the above commands,  file will include entries similar to these (exact versions may vary):
 
 ```bash
 
@@ -104,7 +104,12 @@ scikit-learn==1.1.1
 seaborn==0.11.2
 ```
 
-This file ensures that the same versions of these packages can be installed in any environment by running:
+This file ensures that the same versions of these packages can be installed in any environment by running
+
+### Loading datasets:
+```bash
+ https://www.kaggle.com/datasets/yasserh/titanic-dataset
+```
 
 
 ## Summary
