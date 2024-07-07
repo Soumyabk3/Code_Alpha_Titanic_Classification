@@ -78,7 +78,9 @@ Here is the combined script for all steps:
 ```
 
 ### For macOS/Linux:
-### source venv/bin/activate
+```bash
+source venv/bin/activate
+```
 
 #### Step 3: Install the required packages
 
