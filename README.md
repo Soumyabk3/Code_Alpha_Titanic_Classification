@@ -1,5 +1,5 @@
 # Code_Alpha_Titanic_Classification
-
+Batch:  July: Data Science : M1
 
 ![Titanic ](https://github.com/Soumyabk3/Code_Alpha_Titanic_Classification/blob/main/titanic.png)
 
